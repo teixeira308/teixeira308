@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on api integrations.
 - 🌱 I’m currently learning backend Java skills.
 - 📫 How to reach me: @teixeira308
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 <!--
 **teixeira308/teixeira308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
