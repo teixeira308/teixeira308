@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on api integrations.
-- 🌱 I’m currently learning backend Java skills.
-- 📫 How to reach me: @teixeira308
+- Working on API design, integration requirements and tecnical definitions.
+- Boosting my backend skills.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,github,nodejs,ts,vscode)](https://skillicons.dev)
           
           
 <br/><br/><br/>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--
 **teixeira308/teixeira308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
